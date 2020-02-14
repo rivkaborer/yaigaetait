@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://diethootu.jacobsanford.com/sitemap.xml
